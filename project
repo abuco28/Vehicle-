@@ -1,0 +1,46 @@
+public class Vehicle Extends Car Implements {
+	string cartype;
+        Integer carcolor;
+    
+    Public Vehilce ();
+        Fuel = 5;
+        car.jaguar++;
+    system.debug(car.jaguar);
+}
+Public Vehicle (string name)
+this();
+carName = name;
+      
+}
+public Vehicle (string name, interger name)
+this(name);
+this.carColor = Color;
+}
+ public override void MakeNoise() {
+     super.MakeNosie();
+     system.debug('vroom');
+     
+     public void MakeNoise(string noise) {
+         system.debug(noise);
+     }
+     public override void jaguar () {
+         if(fuel >) = 5
+             system.debug('The car drives fast');
+     } else {
+         system.debug('The car goes slow!');
+     }
+ }
+public void CloseDoors (){
+   PushDoor();
+    system.debug(Close);
+}
+
+Public Void DriveCar(){
+    
+   Move();
+}
+
+Public abstract class Car {
+    string Car Color;
+    integer wheels = 4;
+    }
